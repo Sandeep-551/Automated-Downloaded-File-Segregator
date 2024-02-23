@@ -7,7 +7,7 @@ import logging
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
-# Main download folder
+# Main download folder (Source file)
 source_dir = "/Users/91829/Downloads"
 
 
